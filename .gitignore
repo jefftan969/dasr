@@ -1,0 +1,8 @@
+__pycache__
+banmo_deps
+cache
+database
+output
+*.tar.gz
+*.swp
+*.swo

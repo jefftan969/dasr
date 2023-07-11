@@ -1,0 +1,4 @@
+build/
+dist/
+chamfer_3D.egg-info/
+*.so
