@@ -38,7 +38,6 @@ dependencies:
   - cloudpickle=2.1.0=pyhd8ed1ab_0
   - colorama=0.4.6=pyhd8ed1ab_0
   - cryptography=41.0.1=py310h75e40e8_0
-  - cudatoolkit=11.6.0=habf752d_9
   - cudatoolkit-dev=11.6.0=h72bdee0_5
   - cycler=0.11.0=pyhd8ed1ab_0
   - cython=0.29.36=py310hc6cd4ac_0
